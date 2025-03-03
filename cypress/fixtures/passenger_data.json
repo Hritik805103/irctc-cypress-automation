@@ -5,7 +5,7 @@
   "SOURCE_STATION": "RJPB",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
