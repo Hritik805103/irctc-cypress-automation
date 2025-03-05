@@ -1,13 +1,13 @@
 {
   "TRAIN_NO": "12393",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "04/03/2025",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "07/03/2025",
   "SOURCE_STATION": "RJPB",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "NDLS",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "7260913358-3@ybl",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Shivam Pandey",
